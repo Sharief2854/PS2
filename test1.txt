@@ -1,0 +1,4 @@
+My name is sharief.
+create new file in git directory.
+add and commit the file.
+push the code to central repository.
